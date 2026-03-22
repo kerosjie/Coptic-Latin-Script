@@ -53,3 +53,10 @@ The alphabet goes as the following:
 
 <img width="1723" height="613" alt="image" src="https://github.com/user-attachments/assets/fc185900-f104-42ff-9cd7-f6432107b4c5" />
 
+To Download Please head to the releases page:
+- Please Set your language English (United States) to be able to use this keyboard
+- Download according to your cpu type
+- Please Restart your device after installation for the keyboard to function fully
+
+
+Komé Ɛanxé - كمة عنخة - 𓆎𓏏𓏛 𓋹𓏏 - Long Live Egypt - تحيا مصر
