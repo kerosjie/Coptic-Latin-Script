@@ -3,7 +3,7 @@ a keyboard for the script system made by ḥaué ɛalié that uses latin script 
 
 <img width="8110" height="7930" alt="image" src="https://github.com/user-attachments/assets/37d9bb8d-1069-4274-b448-46fabed63b60" />
 
-Ḥaué Ɛalié presents the latin script keyboard for coptic, a script that uses an alternated version of the latin alphabet that fits the Coptic language.
+## Ḥaué Ɛalié presents the latin script keyboard for coptic, a script that uses an alternated version of the latin alphabet that fits the Coptic language.
 The target of the latin script is to help people who want to write the language in a more accessible script to anyone and that also represents the vowels of words,
 Which will hopefully help the language spread wider.
 
@@ -40,3 +40,12 @@ The alphabet goes as the following:
 | Ɣɣ | 𓄡 | ç | 
 | Zz | 𓊃 | z | 
 | Vv |  | v | 
+
+## Comparing the use of this script to the 2 other ones (Hieroglyphic and persian):
+
+| Hieroglyphic | Persian | Latin | Meaning |
+| :---: | :---: | :---: | :---: |
+| 𓄤𓏏 | نَفْرة | Nafré | Beautiful (f) |
+| 𓌂 | سَخَم | Saxam | Power |
+| 𓊹 | ناچِر | Nacer | God |
+| 𓆎𓏏𓏛 | كُمة | Komé | Egypt |
