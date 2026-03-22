@@ -1,5 +1,5 @@
 # Coptic-Latin-Script
-a keyboard for the script system made by ḥaué ɛalié that uses latin script for Standardized Coptic.
+a keyboard for the script system made by Ḥaué Ɛalié that uses latin script for Standardized Coptic.
 
 <img width="8110" height="7930" alt="image" src="https://github.com/user-attachments/assets/37d9bb8d-1069-4274-b448-46fabed63b60" />
 
