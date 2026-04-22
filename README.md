@@ -50,8 +50,7 @@ The alphabet goes as the following:
 | 𓊹 | ناچِر | Nacer | God |
 | 𓆎𓏏𓏛 | كُمة | Komé | Egypt |
 
-
-<img width="1723" height="613" alt="image" src="https://github.com/user-attachments/assets/fc185900-f104-42ff-9cd7-f6432107b4c5" />
+<img width="1096" height="402" alt="image (2)" src="https://github.com/user-attachments/assets/5f97dbaf-9b52-49c2-abe8-7de478465f7a" />
 
 To Download Please head to the releases page:
 - Please Set your language English (United States) to be able to use this keyboard
