@@ -33,11 +33,11 @@ The alphabet goes as the following:
 | Qq | 𓈎 | k | 
 | Rr | 𓂋 | ɾ | 
 | Ss | 𓋴 | s | 
-| Çç | 𓈙 | ʃ | 
+| Šš | 𓈙 | ʃ | 
 | Tt | 𓏏 | tʰ | 
 | Uu | 𓅱 | w | 
 | Xx | 𓐍 | x | 
-| Ɣɣ | 𓄡 | ç | 
+| Çç | 𓄡 | ç | 
 | Zz | 𓊃 | z | 
 | Vv |  | v | 
 
